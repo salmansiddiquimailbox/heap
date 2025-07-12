@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/salmansiddiquimailbox/heap"
+	"github.com/siddiqui-io/heap"
 )
 
 func main() {
